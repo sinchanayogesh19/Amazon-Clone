@@ -1,4 +1,5 @@
 Amazon Clone - README.md
+
 📌 Project Title
 
 Amazon Clone - E-Commerce Website
@@ -17,12 +18,14 @@ Navigation bar with categories
 Product image display
 Mobile-friendly interface
 Interactive user experience
+
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript
-Bootstrap (Optional)
+Bootstrap
 Font Awesome Icons
+
 📂 Project Structure
 Amazon-Clone/
 │
@@ -35,24 +38,28 @@ Amazon-Clone/
 │   └── ...
 ├── assets/
 └── README.md
+
 ⚙️ Installation
 Clone the repository:
 git clone https://github.com/your-username/amazon-clone.git
-Navigate to the project folder:
+Navigate to the project folder: 
 cd amazon-clone
 Open index.html in your browser.
+
 ▶️ Usage
 Browse available products.
 Search for desired items.
 Add products to the shopping cart.
 View and manage cart items.
 Experience a responsive shopping interface.
+
 🎯 Learning Objectives
 Understand e-commerce website structure.
 Practice responsive web design.
 Implement DOM manipulation using JavaScript.
 Enhance UI/UX development skills.
 Learn shopping cart functionality.
+
 🔮 Future Enhancements
 User authentication and login system
 Product filtering and sorting
@@ -60,6 +67,8 @@ Payment gateway integration
 Order tracking system
 Wishlist functionality
 Backend database integration
+
+
 📸 Screenshots
 <img width="1856" height="938" alt="image" src="https://github.com/user-attachments/assets/052f3091-8b10-43ab-85fa-eb534ee2b4c3" />
 
