@@ -42,7 +42,7 @@ Amazon-Clone/
 ⚙️ Installation
 Clone the repository: 
 git clone https://github.com/your-username/amazon-clone.git
-Navigate to the project folder:  
+Navigate to the project folder: https://github.com/sinchanayogesh19/Amazon-Clone 
 cd amazon-clone
 Open index.html in your browser.
 
