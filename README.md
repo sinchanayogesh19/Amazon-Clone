@@ -40,9 +40,9 @@ Amazon-Clone/
 └── README.md
 
 ⚙️ Installation
-Clone the repository:
+Clone the repository: 
 git clone https://github.com/your-username/amazon-clone.git
-Navigate to the project folder: 
+Navigate to the project folder:  
 cd amazon-clone
 Open index.html in your browser.
 
@@ -71,6 +71,7 @@ Backend database integration
 
 📸 Screenshots
 <img width="1856" height="938" alt="image" src="https://github.com/user-attachments/assets/052f3091-8b10-43ab-85fa-eb534ee2b4c3" />
+<img width="1866" height="1676" alt="image" src="https://github.com/user-attachments/assets/eb52a4c6-301f-45c0-a797-125ed8e0af70" />
 
 
 👩‍💻 Author
