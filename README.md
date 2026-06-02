@@ -68,7 +68,7 @@ Wishlist functionality
 Backend database integration
 
 ### Screenshots
-<img width="1856" height="938" alt="image" src="https://github.com/user-attachments/assets/052f3091-8b10-43ab-85fa-eb534ee2b4c3" />
-<img width="1866" height="1676" alt="image" src="https://github.com/user-attachments/assets/eb52a4c6-301f-45c0-a797-125ed8e0af70" />
+<img width="1828" height="1628" alt="image" src="https://github.com/user-attachments/assets/115bab8e-9fea-402a-97f3-3ba7483a8924" />
+
 
 
